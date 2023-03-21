@@ -33,5 +33,5 @@ a garantir que o aplicativo pareça e funcione de maneira consistente em diferen
 
 
 
-Regenerate response
+
 
