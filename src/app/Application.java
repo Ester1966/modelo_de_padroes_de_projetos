@@ -24,4 +24,7 @@ A interface de usuário é criada através de um factory  GUI (GUIFactory) que �
 A primeira coisa que é feita na classe é importar as classes Button e GUIFactory, que são utilizadas posteriormente. Em seguida, a classe declara duas variáveis
 privadas: button e checkbox.
 
-O construtor da classe recebe como parâmetro uma instância de GUIFactory que será utilizada para criar os componentes da interface de usuário. O método "createButton()" é chamado na fábrica e o resultado é armazenado na variável "button". O mesmo é feito para a criação da caixa de seleção (checkbox), que é armazenada na variável "checkbox".
+O construtor da classe recebe como parâmetro uma instância de GUIFactory que será utilizada para criar os componentes da interface de usuário. O método 
+
+"createButton()" é chamado na fábrica e o resultado é armazenado na variável "button". O mesmo é feito para a criação da caixa de seleção (checkbox), que é 
+armazenada na variável "checkbox".//
