@@ -26,4 +26,6 @@ O método "createCheckbox()" retorna um objeto "MacOSCheckbox", que também é e
 tenha uma aparência e comportamento coerentes com outros componentes de interface do usuário em um sistema MacOS.
 
 Essa abordagem de criar fábricas de interface do usuário para cada sistema operacional permite que aplicativos sejam criados de maneira portátil, pois cada factory é 
-responsável por criar objetos de interface do usuário que são específicos do sistema operacional em que o aplicativo está sendo executado.    Isso ajuda a garantir que o aplicativo pareça e funcione de maneira consistente em diferentes plataformas.
+responsável por criar objetos de interface do usuário que são específicos do sistema operacional em que o aplicativo está sendo executado.    Isso ajuda a garantir 
+que o aplicativo pareça e funcione de maneira consistente em diferentes plataformas.
+    
